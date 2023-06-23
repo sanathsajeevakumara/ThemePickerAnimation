@@ -1,16 +1,14 @@
 # ThemePickerAnimation
-Theme picker animation in Jetpack Compose
+Jetpack Compose revamps the old way we used to handle themes in Android. It offers a lot of flexibility, giving us more possibilities in our definition of our UI. At the same time, the animation system in compose empowers us to create more ambitious and pleasant UI animations with ease. I will combine these two in this tutorial to create an animation for switching between themes.
 
-Medium Article: [Bottom navigation Animation in Jetpack Compose][0]
+Medium Article: [Bottom Navigation Animation in Jetpack Compose][0]
 
-[0]: [[https://developer.android.com/jetpack](https://medium.com/@sanathsajeevakumara/bottom-navigation-animation-in-jetpack-compose-bf51293e272](https://medium.com/@sanathsajeevakumara/theme-picker-animation-in-jetpack-compose-4d562d663632)](https://medium.com/@sanathsajeevakumara/theme-picker-animation-in-jetpack-compose-4d562d663632)
+[0]: https://medium.com/@sanathsajeevakumara/theme-picker-animation-in-jetpack-compose-4d562d663632
 
 ## Technologies
 
 * Android Studio Version: Android Studio Flamingo | 2022.2.1 Patch 1
 * UI: Jetpack Compose
-
-Jetpack Compose revamps the old way we used to handle themes in Android. It offers a lot of flexibility, giving us more possibilities in our definition of our UI. At the same time, the animation system in compose empowers us to create more ambitious and pleasant UI animations with ease. I will combine these two in this tutorial to create an animation for switching between themes. The final result will look like this:
 
 ## App Previews
 
